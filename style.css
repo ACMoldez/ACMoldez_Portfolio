@@ -1,0 +1,35 @@
+.brand-entity {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.text_top {
+    font-weight: 700;
+    font-size: 22px;
+    color: #1a1a1a;
+    letter-spacing: -0.5px;
+}
+
+.text_bottom {
+    font-size: 14px;
+    color: #666666;
+    margin-top: 4px;
+    display: inline-block;
+}
+
+
+.slide-fade-animation {
+    animation: slideFade 2.0s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+}
+
+@keyframes slideFade {
+    0% {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
