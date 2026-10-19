@@ -270,8 +270,8 @@ function answerStory(item, choice) {
   const thinking = document.createElement("p");
   thinking.className = "dialogue-line adrian-line thinking-line";
   thinking.setAttribute("role", "status");
-  thinking.setAttribute("aria-label", "Adrian is thinking");
-  thinking.append("Adrian is thinking");
+  thinking.setAttribute("aria-label", "AC is thinking");
+  thinking.append("AC is thinking");
   const dots = document.createElement("span");
   dots.className = "thinking-dots";
   dots.setAttribute("aria-hidden", "true");
