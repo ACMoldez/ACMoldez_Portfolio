@@ -1,3 +1,5 @@
-# Git in VSCode
+This is my very first officially published project | My Portfolio
 
-Test Commit
+Tech Stack : HTML5, CSS3, Javascript
+
+Design Style : Pastel - Cozy - 16-Bit Look
