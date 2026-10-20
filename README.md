@@ -1,6 +1,6 @@
 # My Portfolio
 
-My very first officially published project — a personal portfolio built from scratch using HTML, CSS, and JavaScript.
+My very first officially published project : a personal portfolio built from scratch using HTML, CSS, and JavaScript.
 
 ## About the Project
 
