@@ -100,19 +100,19 @@ const storyContent = {
   },
   future: {
     title: "Where I'm headed",
-    intro: "No final level just yet — I'm still figuring things out, and honestly, that's part of the fun. Here's what I'm aiming for next.",
+    intro: "No final level just yet, I'm still figuring things out, and honestly, that's part of the fun. Here's what I'm aiming for next.",
     questions: [
       {
         question: "What are you learning now?",
-        answer: "I'm focused on getting better by building, experimenting, and paying attention to how people actually experience what I make.",
+        answer: "I'm focused on getting better by building, experimenting, and paying attention to how people actually experience what I make. To be more specific, I'm trying to learn more about web-development by learning more about its tech stacks.",
       },
       {
         question: "What kind of work matters to you?",
-        answer: "Work that's useful, thoughtfully made, and has a little personality. I want someone to feel that a real person cared about the details.",
+        answer: "Work that's useful, thoughtfully made, and has a little personality. I want someone to feel that a real person cared about the details. So that means the kind of works that involves problem solving, and doing things that people usually cannot do on their own.",
       },
       {
         question: "What's the next quest?",
-        answer: "Keep making things, keep improving, and find opportunities where I can contribute while learning from the people around me.",
+        answer: "Keep making things, keep improving, and find opportunities where I can contribute while learning from the people around me. I yearn to be better, not just in my craft, but also as a person.",
       },
     ],
   },
