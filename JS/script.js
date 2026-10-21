@@ -185,7 +185,7 @@ function updateQuestBoard() {
     if (unlockedCount === 0) {
       questMessage.textContent = "Explore the story archive to reveal my world.";
     } else if (unlockedCount === total) {
-      questMessage.textContent = "All story quests complete — welcome to my world.";
+      questMessage.textContent = "All story quests complete. Welcome to my world.";
     } else {
       questMessage.textContent = `Nice! ${unlockedCount} chapter${unlockedCount > 1 ? "s" : ""} unlocked.`;
     }
